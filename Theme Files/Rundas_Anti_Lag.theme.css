@@ -1,0 +1,58 @@
+//META{"name":"Anti_Lag - Rundas","description":"Github: https://git.io/v7ovg ,Support Server Link: https://discord.gg/kWRYPrq","author":"NFLD99","version":"ersion auto updates"}*//{} 
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Master_Code.css);
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Use_1_Guild_Row/Yes.css);
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Use_2_Guild_Rows/No.css);
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Use_3_Guild_Rows/No.css);
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Use_Animations/No.css);
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Use_Fonts/Yes.css);
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Use_Hide/Channels/No.css);
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Use_Hide/Chat_Title_Bar/No.css);
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Use_Hide/Guilds/No.css);
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Use_Hide/Invites/No.css);
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Use_Hide/Members/Yes.css);
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Use_Hide/Offline/No.css);
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Use_Hide/Popout_Footer/Yes.css);
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Use_Hide/Windows_Bar/No.css);
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Use_Minimal/No.css);
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Use_Popup/No.css);
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Use_Transparency/No.css);
+:root {
+  --Main-Colour: rgba( 114, 160, 193, 1);
+  --Background-Colour: rgba(0,0,0, 1);
+  --S-Colour: rgba( 0,0,0, .3);
+  --M-Colour: rgba( 129, 216, 208, .7);
+  --Text-Shadow-Colour: rgba(0,0,0, .50);
+  --Scroller-Colour: rgba( 201, 255, 229, .55);
+  --Notification-Colour: rgba( 13, 152, 186, 0.35);
+  --Chat-Input-Background: rgba(255,255,255,0);
+  --Chat-Input-Colour: var(--Main-Colour) ;
+  --Unread-Message-1: var(--Main-Colour) ;
+  --Unread-Message-2: var(--Background-Colour) ;
+  --Chat-Background: url(https://i.imgur.com/woAjcu6.png);
+  --Settings-Background: rgba(75,76,76, 0.85);
+  --Callout-Background: rgba(75,76,76, 0.50);
+  --Title-Background: var(--Background-Colour);
+  --Theme-Variant: " Metroid Prime 3 - Rundas";
+  --Chat-Font-Used: ;
+  --Chat-Font-Size: 15px;
+  --Unread-Message-Speed: 1.5s;
+  --Popout-Main-Colour: var(--Main-Colour);
+  --Popout-Background: var(--Callout-Background);
+  --Popout-Text-Shadow-Colour:var(--Text-Shadow-Colour);
+  --Emote-Popout-Background: rgba(0,0,0, .3);
+  --load1: "Metroid Prime 3";
+  --load2: "Rundas";
+  --load3: "Bounty Hunter";
+  --Background-Brightness: 0.60;
+  --Timestamp-Colour: var(--M-Colour);
+  --Settings-Dock-Colour: var(--Main-Colour);
+}
+
+.theme-dark .embedInner-1-fpTo {
+    background-color: rgba(46,48,54,.3);
+    border-color: rgba(46,48,54,.6);
+}
+
+.theme-dark .embedDescription-1Cuq9a, .theme-dark .embedFieldValue-nELq2s, .theme-dark .embedFooterText-28V_Wb, .theme-dark .embedProvider-3k5pfl {
+    color: hsla(0,0%,100%,.6);
+}
