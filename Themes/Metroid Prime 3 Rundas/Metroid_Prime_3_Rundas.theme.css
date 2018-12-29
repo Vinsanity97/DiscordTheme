@@ -1,4 +1,4 @@
-//META{"name":"Anti_Lag - Rundas","description":"Github: https://git.io/v7ovg ,Support Server Link: https://discord.gg/kWRYPrq","author":"NFLD99","version":"ersion auto updates"}*//{} 
+//META{"name":"Metroid Prime 3 - Rundas","description":"Github: https://git.io/v7ovg ,Support Server Link: https://discord.gg/kWRYPrq","author":"NFLD99","version":"ersion auto updates"}*//{} 
 @import url(https://nfld99.github.io/Better-Discord/Source_Code/Master_Code.css);
 @import url(https://nfld99.github.io/Better-Discord/Source_Code/Use_1_Guild_Row/Yes.css);
 @import url(https://nfld99.github.io/Better-Discord/Source_Code/Use_2_Guild_Rows/No.css);
@@ -48,6 +48,7 @@
   --Settings-Dock-Colour: var(--Main-Colour);
 }
 
+/* Embeds Discord Default Behavior */
 .theme-dark .embedInner-1-fpTo {
     background-color: rgba(46,48,54,.3);
     border-color: rgba(46,48,54,.6);
@@ -56,3 +57,4 @@
 .theme-dark .embedDescription-1Cuq9a, .theme-dark .embedFieldValue-nELq2s, .theme-dark .embedFooterText-28V_Wb, .theme-dark .embedProvider-3k5pfl {
     color: hsla(0,0%,100%,.6);
 }
+/* END */
