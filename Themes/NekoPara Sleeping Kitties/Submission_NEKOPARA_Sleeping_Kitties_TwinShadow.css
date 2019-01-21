@@ -86,3 +86,15 @@
   background:url(https://i.imgur.com/EamoHtd.png) 50% 50%/cover;
 }
 /* END */
+
+/* Get rid of Gift Nitro and GIF buttons */
+/*
+.button-38aScr[tabindex="2"]{
+  display: none;
+}
+
+.button-38aScr[tabindex="3"]{
+  display: none;
+}
+*/
+/* END */
