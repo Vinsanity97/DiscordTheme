@@ -74,12 +74,6 @@
 }
 /* END */
 
-/* Memberlist background */
-.theme-dark .members-1998pB{
-  background:url(https://i.imgur.com/EamoHtd.png) 50% 50%/cover;
-}
-/* END */
-
 /* Get rid of Gift Nitro and GIF buttons */
 .button-38aScr[tabindex="2"]{
   display: none;
