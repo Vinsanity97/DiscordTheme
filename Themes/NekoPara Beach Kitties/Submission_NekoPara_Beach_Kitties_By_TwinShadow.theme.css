@@ -1,4 +1,4 @@
-//META{"name":"NekoPara Beach Kitties","description":"Github: https://git.io/v7ovg ,Support Server Link: https://discord.gg/kWRYPrq","author":"NFLD99","version":"ersion auto updates"}*//{} 
+//META{"name":"NEKOPARA Beach Kitties","description":"Github: https://git.io/v7ovg ,Support Server Link: https://discord.gg/kWRYPrq","author":"NFLD99","version":"ersion auto updates"}*//{} 
 
 /* Sorce Code */
 @import url(https://nfld99.github.io/Better-Discord/Source_Code/Master_Code.css);
@@ -81,6 +81,7 @@
 /* END */
 
 /* Get rid of Gift Nitro and GIF buttons */
+/*
 .button-38aScr[tabindex="2"]{
   display: none;
 }
@@ -88,6 +89,7 @@
 .button-38aScr[tabindex="3"]{
   display: none;
 }
+*/
 /* END */
 
 /* Category Colors
