@@ -75,6 +75,7 @@
 /* END */
 
 /* Get rid of Gift Nitro and GIF buttons */
+/*
 .button-38aScr[tabindex="2"]{
   display: none;
 }
@@ -82,6 +83,7 @@
 .button-38aScr[tabindex="3"]{
   display: none;
 }
+*/
 /* END */
 
 /* Category Colors
@@ -96,7 +98,11 @@
 /* END */
 
 /* Hide Discover Servers Button */
+/*
 .guildsDiscover-oiBX_l{
 	display: none;
 }
+*/
+/* END */
+
 /* END */
