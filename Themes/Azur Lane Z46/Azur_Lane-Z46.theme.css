@@ -28,8 +28,6 @@
 @import url(https://nfld99.github.io/Better-Discord/Source_Code/Use_Hide/Popout_Footer/Yes.css);
 /* Transparency Patch */ 
 @import url(https://nfld99.github.io/Better-Discord/Source_Code/Use_Transparency/No.css);
-/* Better Docs Blocker */
-@import url(https://anti-betterdocs.github.io/BlockBetterDocs/code.css);
 
 :root {
   --Main-Colour: rgba(218, 165, 32,1);
