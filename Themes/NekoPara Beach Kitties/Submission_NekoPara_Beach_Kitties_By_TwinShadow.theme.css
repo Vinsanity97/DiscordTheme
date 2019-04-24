@@ -32,7 +32,7 @@
 :root {
   --Main-Colour: rgba(124, 185, 232, 1);
   --Background-Colour: rgba(0, 0, 90, 0.3);
-  --S-Colour: rgba(0,0,0, .3);
+  --S-Colour: rgba(0,0,0, .2);
   --M-Colour: rgba(137, 207, 240, .7);
   --Text-Shadow-Colour: rgba(0,0,0, .50);
   --Scroller-Colour: rgba(255, 255, 255, .41);
