@@ -94,8 +94,8 @@
 
 /* Hide Discover Servers Button */
 /*
-.wrapper-1Rf91z .scroller-2TZvBN>.listItem-2P_4kh:nth-last-of-type(1) {
-  display:none;
+.wrapper-1Rf91z .scroller-2TZvBN > .listItem-2P_4kh:not([folder*="folder_"]):nth-last-of-type(1) {
+  display: none;
 }
 */
 /* END */
