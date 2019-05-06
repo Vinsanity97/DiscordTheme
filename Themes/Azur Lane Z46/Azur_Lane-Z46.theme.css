@@ -32,8 +32,8 @@
 :root {
   --Main-Colour: rgba(218, 165, 32,1);
   --Background-Colour: #002366A0;
-  --S-Colour: rgba(100,100,100,.15);
-  --M-Colour: #007FFFFF;
+  --Secondary-Background-Colour: rgba(100,100,100,.15);
+  --Secondary-Main-Colour: #007FFFFF;
   --Text-Shadow-Colour: rgba(0,0,0,.65);
   --Scroller-Colour: rgba(218, 165, 32,.65);
   --Notification-Colour: rgba(13, 152, 186,1);
@@ -58,10 +58,10 @@
   --load3: "By TwinShadow";
   --Settings-Dock-Colour: var(--Main-Colour);
   --Timestamp-Colour: rgba(190, 211, 229, 0.9);
-  --Guild-Rows: 1;
-  --SF-Guild-Rows: var(--Guild-Rows);
+  --Guild-Columns: 1;
+  --ServerFolders-Guild-Columns: var(--Guild-Rows);
   --Chat-Avatar-Border-Radius: 10%;
-  --Background-Brightness: 0.5;
+  --Background-Darkness: 0.5;
 }
 
 /* Embeds Discord Default Behavior */

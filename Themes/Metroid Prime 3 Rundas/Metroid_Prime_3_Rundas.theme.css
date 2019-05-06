@@ -32,8 +32,8 @@
 :root {
   --Main-Colour: rgba( 114, 160, 193, 1);
   --Background-Colour: rgba(0,0,0, 1);
-  --S-Colour: rgba( 0,0,0, .3);
-  --M-Colour: rgba( 129, 216, 208, .7);
+  --Secondary-Background-Colour: rgba( 0,0,0, .3);
+  --Secondary-Main-Colour: rgba( 129, 216, 208, .7);
   --Text-Shadow-Colour: rgba(0,0,0, .50);
   --Scroller-Colour: rgba( 201, 255, 229, .55);
   --Notification-Colour: rgba( 13, 152, 186, 0.35);
@@ -58,10 +58,10 @@
   --load3: "Bounty Hunter";
   --Settings-Dock-Colour: var(--Main-Colour);
   --Timestamp-Colour: var(--M-Colour);
-  --Guild-Rows: 1;
-  --SF-Guild-Rows: var(--Guild-Rows);
+  --Guild-Columns: 1;
+  --ServerFolders-Guild-Columns: var(--Guild-Rows);
   --Chat-Avatar-Border-Radius: 10%;
-  --Background-Brightness: 0.60;
+  --Background-Darkness: 0.60;
 }
 
 /* Embeds Discord Default Behavior */

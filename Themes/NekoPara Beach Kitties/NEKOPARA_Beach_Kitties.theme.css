@@ -32,8 +32,8 @@
 :root {
   --Main-Colour: rgba(124, 185, 232, 1);
   --Background-Colour: rgba(0, 0, 90, 0.3);
-  --S-Colour: rgba(0,0,0, .2);
-  --M-Colour: rgba(137, 207, 240, .7);
+  --Secondary-Background-Colour: rgba(0,0,0, .2);
+  --Secondary-Main-Colour: rgba(137, 207, 240, .7);
   --Text-Shadow-Colour: rgba(0,0,0, .50);
   --Scroller-Colour: rgba(255, 255, 255, .41);
   --Notification-Colour: rgba(161, 202, 241, 0.2);
@@ -58,10 +58,10 @@
   --load3: "Kitties";
   --Settings-Dock-Colour: rgba(220, 220, 220, 0.74);
   --Timestamp-Colour: rgba(216, 216, 216, 1);
-  --Guild-Rows: 1;
-  --SF-Guild-Rows: var(--Guild-Rows);
+  --Guild-Columns: 1;
+  --ServerFolders-Guild-Columns: var(--Guild-Rows);
   --Chat-Avatar-Border-Radius: 10%;
-  --Background-Brightness: 0.60;
+  --Background-Darkness: 0.60;
 }
 
 /* Embeds Discord Default Behavior */
