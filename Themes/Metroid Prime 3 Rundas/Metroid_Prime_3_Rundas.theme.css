@@ -57,9 +57,9 @@
   --load2: "Rundas";
   --load3: "Bounty Hunter";
   --Settings-Dock-Colour: var(--Main-Colour);
-  --Timestamp-Colour: var(--M-Colour);
+  --Timestamp-Colour: var(--Secondary-Main-Colour);
   --Guild-Columns: 1;
-  --ServerFolders-Guild-Columns: var(--Guild-Rows);
+  --ServerFolders-Guild-Columns: var(--Guild-Columns);
   --Chat-Avatar-Border-Radius: 10%;
   --Background-Darkness: 0.60;
 }

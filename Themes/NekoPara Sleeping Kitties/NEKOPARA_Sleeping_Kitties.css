@@ -52,14 +52,14 @@
   --Popout-Main-Colour: var(--Main-Colour);
   --Popout-Background: url(https://i.imgur.com/wcdachI.png);
   --Popout-Text-Shadow-Colour:var(--Text-Shadow-Colour);
-  --Emote-Popout-Background: var(--S-Colour);
+  --Emote-Popout-Background: var(--Secondary-Background-Colour);
   --load1: "NEKOPARA";
   --load2: "Sleeping";
   --load3: "Kitties";
   --Settings-Dock-Colour: rgba(255, 228, 233, 1);
   --Timestamp-Colour: rgba(255, 183, 197, 1);
   --Guild-Columns: 2;
-  --ServerFolders-Guild-Columns: var(--Guild-Rows);
+  --ServerFolders-Guild-Columns: var(--Guild-Columns);
   --Chat-Avatar-Border-Radius: 10%;
   --Background-Darkness: 0.65;
 }

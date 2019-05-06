@@ -39,7 +39,7 @@
   --Notification-Colour: rgba(13, 152, 186,1);
   --Chat-Input-Background: rgba(0,0,0,0);
   --Chat-Input-Colour: var(--Main-Colour);
-  --Unread-Message-1: var(--M-Colour);
+  --Unread-Message-1: var(--Secondary-Main-Colour);
   --Unread-Message-2: #007FFF64;
   --Chat-Background: url(https://i.imgur.com/gM5wAxY.png);
   --Settings-Background: rgba(75,76,76, 0.85);
@@ -59,7 +59,7 @@
   --Settings-Dock-Colour: var(--Main-Colour);
   --Timestamp-Colour: rgba(190, 211, 229, 0.9);
   --Guild-Columns: 1;
-  --ServerFolders-Guild-Columns: var(--Guild-Rows);
+  --ServerFolders-Guild-Columns: var(--Guild-Columns);
   --Chat-Avatar-Border-Radius: 10%;
   --Background-Darkness: 0.5;
 }
