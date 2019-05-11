@@ -124,3 +124,20 @@ div.option-popout.small-popout-box, div.context-menu, .context-menu .context-men
   border: 2px solid rgba(190, 211, 229, 0.9) !important;
 }
 /* END */
+
+/* Channel Gradients */
+
+.modeUnread-1zpFdA > .content-3at_AU{
+  background: linear-gradient(to right, #00236665, #002366E0, rgba(218, 165, 32,.8))!important;
+  background-size: 150% 150%;
+}
+.theme-dark .wrapper-1ucjTd.modeSelected-1zApJ_ > .content-3at_AU{
+  background: linear-gradient(to right, #002366E0, rgba(218, 165, 32,.8))!important;
+  background-size: 50% 50%;
+}
+/*
+.theme-dark .wrapper-1ucjTd:hover .content-3at_AU{
+  background: green!important;
+  background-size: 100% 100%;
+}
+*/
