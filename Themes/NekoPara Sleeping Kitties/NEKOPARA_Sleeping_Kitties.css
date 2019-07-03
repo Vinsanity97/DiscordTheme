@@ -47,8 +47,8 @@
   --Unread-Message-1: var(--Main-Colour);
   --Unread-Message-2: var(--Background-Colour);
   --Chat-Background: url(https://i.imgur.com/VjceKsC.jpg);
-  --Settings-Background: rgba(75,76,76, 0.65);
-  --Callout-Background: var(--Settings-Background);
+  --Settings-Background: rgba(246, 173, 198, 0.35);
+  --Callout-Background: rgba(15, 15, 15, 0.85);
   --Title-Background: var(--Background-Colour);
   --Theme-Variant: " NEKOPARA Sleeping Kitties";
   --Chat-Font-Used: ;
