@@ -55,7 +55,7 @@
   --Chat-Font-Size: 15px;
   --Unread-Message-Speed: 1.5s;
   --Popout-Main-Colour: var(--Main-Colour);
-  --Popout-Background: var(--Callout-Background);
+  --Popout-Background: url(https://i.imgur.com/MpPgjbf.png);
   --Popout-Text-Shadow-Colour:var(--Text-Shadow-Colour);
   --Emote-Popout-Background: var(--Secondary-Background-Colour);
   --load1: "Pretty~";
