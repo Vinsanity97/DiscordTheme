@@ -47,8 +47,8 @@
   --Unread-Message-1: rgba(244, 164, 96, 0.7);
   --Unread-Message-2: rgba(245, 245, 220, 0.7);
   --Chat-Background: url(https://i.imgur.com/H0pn3Lm.jpg);
-  --Settings-Background: rgba(75,76,76, 0.65);
-  --Callout-Background: var(--Settings-Background);
+  --Settings-Background: rgba(0, 155, 178, 0.4);
+  --Callout-Background: rgba(16, 16, 16, 0.8);
   --Title-Background: var(--Background-Colour);
   --Theme-Variant: " NEKOPARA Beach Kitties";
   --Chat-Font-Used: ;
