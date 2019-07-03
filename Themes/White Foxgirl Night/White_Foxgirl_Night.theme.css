@@ -47,8 +47,8 @@
   --Unread-Message-1: var(--Main-Colour) ;
   --Unread-Message-2: var(--Secondary-Main-Colour) ;
   --Chat-Background: url(https://i.imgur.com/Der9GJd.png);
-  --Settings-Background: rgba(75,76,76, 0.85);
-  --Callout-Background: rgba(75,76,76, 0.50);
+  --Settings-Background: rgba(29,41,81, 0.55);
+  --Callout-Background: rgba(15,15,15, 0.80);
   --Title-Background: var(--Background-Colour);
   --Theme-Variant: " White Foxgirl";
   --Chat-Font-Used: ;
