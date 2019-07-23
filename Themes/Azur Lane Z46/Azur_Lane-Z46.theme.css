@@ -33,6 +33,8 @@
 @import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Hide/Popout_Footer/Yes.css);
 /* Transparency Patch */ 
 @import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Transparency/No.css);
+/* Use Chat Bubbles By Shiz */
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Chat_Bubbles/No.css);
 
 :root {
   --Main-Colour: rgba(218, 165, 32,1);
@@ -61,7 +63,7 @@
   --load1: "Azur Lane";
   --load2: "Z46";
   --load3: "By TwinShadow";
-  --File-Updated-2019-6-19: ;
+  --File-Updated-2019-7-23: ;
   --Settings-Dock-Colour: var(--Main-Colour);
   --Timestamp-Colour: rgba(190, 211, 229, 0.9);
   --Guild-Columns: 1;
