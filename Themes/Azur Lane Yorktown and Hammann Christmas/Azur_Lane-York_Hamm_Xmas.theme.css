@@ -35,17 +35,17 @@
 @import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Chat_Bubbles/No.css);
 
 :root {
-  --Main-Colour: #F0FFFFFF;
-  --Background-Colour: rgba(0, 0, 245, 0.1);
-  --Secondary-Background-Colour: rgba(192, 192, 192, .1);
-  --Secondary-Main-Colour: rgba(108, 180, 238, 1);
+  --Main-Colour: #fa4040ff;
+  --Background-Colour: #57fa4121;
+  --Secondary-Background-Colour: #59deff20;
+  --Secondary-Main-Colour: #82f5e7FA;
   --Text-Shadow-Colour: rgba(0,0,0,.65);
-  --Scroller-Colour: rgba(0, 90, 156, .9);
-  --Notification-Colour: rgba(13, 152, 186,1);
+  --Scroller-Colour: #12ff1aC8;
+  --Notification-Colour: var(--Main-Colour);
   --Chat-Input-Background: rgba(0,0,0,0);
-  --Chat-Input-Colour: var(--Main-Colour);
-  --Unread-Message-1: var(--Secondary-Main-Colour);
-  --Unread-Message-2: #007FFF64;
+  --Chat-Input-Colour: var(--Secondary-Main-Colour);
+  --Unread-Message-1: #e80909F5;
+  --Unread-Message-2: #48f756E9;
   --Chat-Background: url(https://i.imgur.com/8Yy2St6.jpg);
   --Settings-Background: rgba(75, 146, 219, 0.25);
   --Callout-Background: rgba(15,15,15, 0.90);
@@ -54,20 +54,20 @@
   --Chat-Font-Used: ;
   --Chat-Font-Size: 15px;
   --Unread-Message-Speed: 1.5s;
-  --Popout-Main-Colour: var(--Main-Colour);
+  --Popout-Main-Colour: #ffffff;
   --Popout-Background: url(https://i.imgur.com/WnmElFS.png);
   --Popout-Text-Shadow-Colour:var(--Text-Shadow-Colour);
-  --Emote-Popout-Background: rgba(77, 77, 255, .2);
+  --Emote-Popout-Background: rgba(15, 15, 15, 0.8);
   --load1: "Azur Lane";
   --load2: "Yorktown and Hammann";
   --load3: "By TwinShadow";
   --File-Updated-2019-9-15: ;
-  --Settings-Dock-Colour: var(--Main-Colour);
-  --Timestamp-Colour: #F0FFFFA6;
+  --Settings-Dock-Colour: var(--Secondary-Main-Colour);
+  --Timestamp-Colour: #F0FFFFF6;
   --Guild-Columns: 1;
   --ServerFolders-Guild-Columns: var(--Guild-Columns);
   --Chat-Avatar-Border-Radius: 15%;
-  --Background-Darkness: 0.5;
+  --Background-Darkness: 0.62;
 }
 
 /* Change Home Icon (uses base64 encoding) */
@@ -117,18 +117,19 @@
 .theme-dark .item-1Yvehc {
   background: rgb(0, 0, 0) !important;
   background-color: rgb(31, 117, 254, 0.25) !important; /* buttons */
-  color: rgb(140, 240, 255) !important; /* button text */
+  color: rgb(200, 200, 200) !important; /* button text */
 }
 
 .theme-dark .item-1Yvehc:hover {
   background: rgb(0, 0, 0) !important;
-  background-color: rgba(118, 171, 223, 0.65) !important; /* button hover */
-  color: rgb(240, 255, 255)!important; /* button hover text */
+  background-color: #f0140095 !important; /* button hover */
+  color: rgb(255, 255, 255)!important; /* button hover text */
 }
 
 div.option-popout.small-popout-box, div.context-menu, .context-menu .context-menu:not(.item-subMenu), .contextMenu-HLZMGh, .contextMenu-HLZMGh.disabled-dlOjhg .checkbox {
   background: rgb(0, 0, 0) !important;
-  background-color: rgba(84, 90, 167, 0.8) !important; /* main background */
-  border: 2px solid rgba(51, 51, 153, 0.7) !important;
+  background-color: #009405a6 !important; /* main background */
+  border: 2px solid rgba(51, 153, 51, 0.7) !important;
 }
+*/
 /* END */
