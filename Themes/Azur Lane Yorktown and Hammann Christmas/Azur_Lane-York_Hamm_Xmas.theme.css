@@ -1,10 +1,15 @@
 /** 
  * @name Azur Lane - Yorktown and Hammann Christmas
- * @author TwinShadow
+ * @author TwinShadow / NFLD99
  * @version ersion auto updates
- * @description It's Yorktown and Hammann have a Merry Christmas! Azur Lane © YoStar    |    Theme based on NFLD's template.    |    Support: https://nfld99.com/discord
+ * @description It's Yorktown and Hammann have a Merry Christmas! Azur Lane © YoStar    |    Theme based on NFLD's template.
  * @source https://github.com/TwinDragon/DiscordTheme
  * @website https://nfld99.com/
+ * @patreon https://nfld99.com/patreon
+ * @authorLink https://discordhub.com/profile/483413721876529174
+ * @donate https://nfld99.com/paypal
+ * @authorId 483413721876529174
+ * @invite kWRYPrq
 */
 
 /* Sorce Code */
@@ -61,7 +66,7 @@
   --load1: "Azur Lane";
   --load2: "Yorktown and Hammann";
   --load3: "By TwinShadow";
-  --File-Updated-2019-9-15: ;
+  --File-Updated-2020-2-27: ;
   --Settings-Dock-Colour: var(--Secondary-Main-Colour);
   --Timestamp-Colour: #F0FFFFF6;
   --Guild-Columns: 1;

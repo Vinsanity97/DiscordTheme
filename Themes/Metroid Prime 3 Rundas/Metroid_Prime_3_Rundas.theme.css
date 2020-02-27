@@ -1,10 +1,15 @@
 /** 
  * @name Metroid Prime 3 - Rundas
- * @author TwinShadow
+ * @author TwinShadow / NFLD99
  * @version ersion auto updates
- * @description The bounty hunter Rundas, cold as ice, is ready to hunt. Metroid Prime 3 © Nintendo    |    Theme based on NFLD's template.    |    Support: https://nfld99.com/discord
+ * @description The bounty hunter Rundas, cold as ice, is ready to hunt. Metroid Prime 3 © Nintendo    |    Theme based on NFLD's template.
  * @source https://github.com/TwinDragon/DiscordTheme
  * @website https://nfld99.com/
+ * @patreon https://nfld99.com/patreon
+ * @authorLink https://discordhub.com/profile/483413721876529174
+ * @donate https://nfld99.com/paypal
+ * @authorId 483413721876529174
+ * @invite kWRYPrq
 */
 
 /* Sorce Code */
@@ -61,7 +66,7 @@
   --load1: "Metroid Prime 3";
   --load2: "Rundas";
   --load3: "Bounty Hunter";
-  --File-Updated-2019-9-15: ;
+  --File-Updated-2020-2-27: ;
   --Settings-Dock-Colour: var(--Main-Colour);
   --Timestamp-Colour: var(--Secondary-Main-Colour);
   --Guild-Columns: 1;
