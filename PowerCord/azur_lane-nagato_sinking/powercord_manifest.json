@@ -1,0 +1,9 @@
+{
+    "name": "Azur Lane - Nagato Sinking",
+    "description": "Test for Powercord of NFLD's theme.",
+    "version": "1.0.0",
+    "author": "TwinShadow#0666",
+    "theme": "azur_lane_nagato.css",
+    "consent": "false",
+    "license": "unknown"
+}
