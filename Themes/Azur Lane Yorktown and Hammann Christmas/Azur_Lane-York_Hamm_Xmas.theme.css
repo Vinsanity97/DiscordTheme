@@ -86,24 +86,3 @@
   fill: transparent!important;
 }
 /* END */
-
-/* Popout Context Menu */
-.theme-dark .item-1Yvehc {
-  background: rgb(0, 0, 0) !important;
-  background-color: rgb(31, 117, 254, 0.25) !important; /* buttons */
-  color: rgb(200, 200, 200) !important; /* button text */
-}
-
-.theme-dark .item-1Yvehc:hover {
-  background: rgb(0, 0, 0) !important;
-  background-color: #f0140095 !important; /* button hover */
-  color: rgb(255, 255, 255)!important; /* button hover text */
-}
-
-div.option-popout.small-popout-box, div.context-menu, .context-menu .context-menu:not(.item-subMenu), .contextMenu-HLZMGh, .contextMenu-HLZMGh.disabled-dlOjhg .checkbox {
-  background: rgb(0, 0, 0) !important;
-  background-color: #009405a6 !important; /* main background */
-  border: 2px solid rgba(51, 153, 51, 0.7) !important;
-}
-*/
-/* END */
