@@ -40,10 +40,10 @@
 @import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Chat_Bubbles/No.css);
 
 :root {
-  --Main-Colour: rgba(124, 185, 232, 1);
+  --Main-Colour: rgb(57, 248, 255);
   --Background-Colour: rgba(0, 0, 90, 0.3);
-  --Secondary-Background-Colour: rgba(0,0,0, .2);
-  --Secondary-Main-Colour: rgba(137, 207, 240, .7);
+  --Secondary-Background-Colour: rgba(40, 108, 255, 0.438);
+  --Secondary-Main-Colour: rgb(66, 242, 255);
   --Text-Shadow-Colour: rgba(0,0,0, .50);
   --Scroller-Colour: rgba(255, 255, 255, .41);
   --Notification-Colour: rgba(161, 202, 241, 0.2);
@@ -72,19 +72,8 @@
   --Guild-Columns: 1;
   --ServerFolders-Guild-Columns: var(--Guild-Columns);
   --Chat-Avatar-Border-Radius: 10%;
-  --Background-Darkness: 0.60;
+  --Background-Darkness: 0.65;
 }
-
-/* Embeds Discord Default Behavior */
-.embedFull-2tM8--{
-  background-color: rgba(46,48,54,.3)!important;
-  border-color: rgba(46,48,54,.6)!important;
-}
-
-.theme-dark .embedDescription-1Cuq9a, .theme-dark .embedFieldValue-nELq2s, .theme-dark .embedFooterText-28V_Wb, .theme-dark .embedProvider-3k5pfl{
-  color: hsla(0,0%,100%,.6)!important;
-}
-/* END */
 
 /* Memberlist background */
 .theme-dark .members-1998pB{
@@ -94,11 +83,11 @@
 
 /* Category Colors
    Non-Collapsed */
-.nameDefault-2DI02H{
+.name-3l27Hl{
 	color: rgba(40, 255, 255, 0.85)!important;
 }
 /* Collapsed */
-.nameCollapsed-34uFWo{
+.collapsed-2-tg8y  > .name-3l27Hl{
 	color: rgba(0, 184, 223, 0.9)!important;
 }
 /* END */
