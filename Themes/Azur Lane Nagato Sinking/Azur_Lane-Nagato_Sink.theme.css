@@ -89,30 +89,30 @@
 
 /* Category Colors
    Non-Collapsed */
-.name-IbjUBS{
-	color: rgba(220, 201, 214, 0.95)!important;
-}
-/* Collapsed */
-.collapsed-4WdoJ7  > .name-IbjUBS{
-	color: rgba(100, 150, 140, 0.95)!important;
-}
-/* END */
-
-/* Channel Gradients */
-/* Message Unread Highlight */
-.modeUnread-1zpFdA > .content-3at_AU{
-  background: linear-gradient(to left, rgba(25, 25, 25, 0.9), rgba(130, 30, 30, 0.7), rgba(190, 56, 56, 0.5))!important;
-  background-size: 150% 150%;
-}
-/* Currently Selected Channel */
-.theme-dark .wrapper-1ucjTd.modeSelected-1zApJ_ > .content-3at_AU{
-  background: linear-gradient(to right, rgba(25, 25, 25, 0.9), rgba(30, 30, 30, 0.7), rgba(190, 56, 56, 0.5))!important;
-  background-size: 50% 50%;
-}
-/* Channel Hover */
-.theme-dark .wrapper-1ucjTd:hover .content-3at_AU{
-  background: rgba(190, 25, 30, 0.45)!important;
-  background-size: 100% 100%;
-}
-
-/* END */
+   .name-3l27Hl{
+    color: rgba(220, 201, 214, 0.95)!important;
+  }
+  /* Collapsed */
+  .collapsed-2-tg8y  > .name-3l27Hl{
+    color: rgba(100, 150, 140, 0.95)!important;
+  }
+  /* END */
+  
+  /* Channel Gradients */
+  /* Message Unread Highlight */
+  .modeUnread-1qO3K1 > .content-1x5b-n{
+    background: linear-gradient(to left, rgba(25, 25, 25, 0.9), rgba(130, 30, 30, 0.7), rgba(190, 56, 56, 0.5))!important;
+    background-size: 150% 150%;
+  }
+  /* Currently Selected Channel */
+  .selected-3LIHYU > div > .content-1x5b-n{
+    background: linear-gradient(to right, rgba(25, 25, 25, 0.9), rgba(30, 30, 30, 0.7), rgba(190, 56, 56, 0.5))!important;
+    background-size: 50% 50%;
+  }
+  /* Channel Hover */
+  .containerDefault--pIXnN:hover > div > .content-1x5b-n{
+    background: rgba(190, 25, 30, 0.45)!important;
+    background-size: 100% 100%;
+  }
+  
+  /* END */
